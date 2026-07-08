@@ -1,0 +1,10 @@
+This exercise teaches the minimum foundation of output in C:
+
+how to define a function
+how to pass a character as a parameter
+how to call a function from main
+how to use write
+how stdout works through file descriptor 1
+how to pass a variable address with &
+how to compile with strict warning flags
+how to test exact output using cat -e
