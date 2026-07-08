@@ -2,11 +2,11 @@
 
 void ft_print_alphabet(void)
 {
-    char    c;
-    c = 'a';
-    while (c <= 'z')
+    char i;
+    i = 'a';
+    while ( i <= 'z' )
     {
-        write(1, &c, 1);
-        c++;
+        write(1 , &i, 1);
+        i++;
     }
 }
